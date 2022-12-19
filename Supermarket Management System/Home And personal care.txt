@@ -1,0 +1,14 @@
+Perfume 650
+Sunscreen 280
+Mouthwash 220
+Dentalfloss 150
+Cottonswab 50
+Handmirror 460
+Tissues 40
+Comb 80
+Hairspray 600
+Floorcleaner 400
+Airfreshner 500
+Dishwashbar 170
+Toiletcleaner 120
+Handwash 230

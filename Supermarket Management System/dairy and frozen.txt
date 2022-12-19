@@ -1,0 +1,9 @@
+Milk 40.0
+Butter 50.0
+Cheese 45.0
+Whitecream 60.0
+Yogurt 20.0
+Buttermilk 20.0
+Paneer 35.0
+Lassi 20.0
+Xyz 100

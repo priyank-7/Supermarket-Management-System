@@ -1,0 +1,14 @@
+Sneakers 12000
+Boots 2500
+Crocs 3000
+Loafers 1500
+Combatboots 6000 
+Slippers 500
+Sandles 800
+Snowboots 1800
+Ankleboots 2500
+Courtshoes 3500
+Calfsocks 200
+Noshowsocks 220
+Sportsocks 250
+wintersocks 320

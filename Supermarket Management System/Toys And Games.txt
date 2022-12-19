@@ -1,0 +1,11 @@
+Bicycle 400.0
+Train 600.0
+Dollhouse 1500.0
+Teddybear 500.0
+Airplane 1600.0
+Car 3000.0
+Legos 500.0
+Batandball 120.0
+Capgun 300.0
+Clay 60
+Football 170.0

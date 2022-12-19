@@ -1,0 +1,7 @@
+Dinnerset 450.0
+Bowls 200.0
+Plateset 300.0
+Wineglasses 120.0
+Teapot 160.0
+Spoon 40.0
+Mug 69

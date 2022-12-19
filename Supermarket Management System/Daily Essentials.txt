@@ -1,0 +1,13 @@
+Wheatflour 100.0
+Sugar 50.0
+Salt 40.0
+Pasta 200.0
+Egg 20.0
+Tea 149.0
+Honey 70.0
+Detergent 60.0
+Margarine 100.0
+Juices 50.0
+Toiletpaper 50.0
+Napkinsn 149.0
+Agarbatti 80.0

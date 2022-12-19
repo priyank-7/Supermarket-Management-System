@@ -1,0 +1,11 @@
+Sandalsoup 40.0
+Shampoo 12
+Conditioner 320.0
+Toothpaste 120.0
+Brush 25.0
+Foam 220.0
+Bodywash 150.0
+Trimmer 700.0
+Perfume 280.0
+Bedsheet 600.0
+Mattress 1000.0

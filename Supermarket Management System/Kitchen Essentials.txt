@@ -1,0 +1,16 @@
+Gasstove 10000.0
+Juicer 4000.0
+Coffeemaker 5000.0
+Mixer 2000.0
+Blender 200.0
+Kettle 1500.0
+Toaster 900.0
+Microwave 8000.0
+Knife 200.0
+Cuttingboard 150.0
+Grater 349
+Rollingpin 200.0
+Masher 350.0
+Aluminumfoil 150.0
+Trashbags 60.0
+Trashbin 400.0

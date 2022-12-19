@@ -1,0 +1,11 @@
+Jacket 1299
+Shirt 800.0
+Trousers 1000.0
+Vest 400.0
+Underwere 500.0
+Tracksuit 900.0
+Tshirt 500.0
+Wintercoat 100.0
+Sweatshirt 800.0
+Raincoat 1500.0
+Shorts 400.0
